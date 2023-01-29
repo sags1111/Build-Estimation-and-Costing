@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #acb4f1;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+.p {
+    color: white;
+    font-size: 13px;
+    letter-spacing: 0.8px;
+    width: 666px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.service-img {
+    width: 540px;
+    height: 220px;
+    align-items: center;
+    margin-left: 23%;
+}
